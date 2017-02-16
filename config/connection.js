@@ -5,7 +5,8 @@ var connection = mysql.createConnection({
   port: 3306,
   host: "localhost",
   user: "root",
-  password: "Synyster1!",
+  //NOT PUTTING PW ON GITHUB
+  password: "*********",
   database: "burger_db"
 });
 
